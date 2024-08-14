@@ -1,0 +1,41 @@
+{
+	"name": "Planet Clicker",
+	"version": "4.3",
+	"description": "Click the planet to start.",
+	"id": "com.rust865.planetclicker",
+	"unique-id": "izqn522cv7c",
+	"viewport-width": 1920,
+	"viewport-height": 1080,
+	"author": "dk865",
+	"email": "",
+	"website": "https://dk865.github.io",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r397",
+	"ife": true,
+	"used-plugins": [
+		"Spritefont2",
+		"Sprite",
+		"Touch",
+		"Mouse",
+		"Button",
+		"Browser",
+		"Audio",
+		"Keyboard",
+		"Date",
+		"Clipboard",
+		"Arr",
+		"AJAX",
+		"TextBox"
+	],
+	"used-behaviors": [
+		"Fade",
+		"skymen_Skymen_SpritefontDX",
+		"Sin",
+		"Persist",
+		"destroy",
+		"Platform",
+		"Timer",
+		"Physics"
+	]
+}
